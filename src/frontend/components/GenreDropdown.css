@@ -1,0 +1,23 @@
+.dropdown-wrapper {
+    margin: 10px;
+    width: 10rem;
+    background-color: 	#171717;
+    border: none;
+}
+
+.dropdown-wrapper:hover {
+    background-color: 	#171717;
+}
+
+.dropdown-wrapper:focus {
+    background-color: #171717;
+}
+
+.dropdown-menu {
+    background-color: 	#171717;
+    width: fit-content;
+}
+
+.dropdown-item {
+    color: white;
+}
